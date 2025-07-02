@@ -11,7 +11,8 @@ O **Cinetag** é uma aplicação desenvolvida durante meus primeiros estudos com
 - 🧠 Componentização e reutilização de elementos
 - 📂 Organização de arquivos e pastas (pages, components, assets, context, etc)
 - 🖼 Exibição dinâmica de dados usando `.map()`
-- 🌐 Consumo de API simulada com `json-server` via `my-json-server.typicode.com`
+- 🌐 Hospedar o protótipo de API no My Json Server
+- 💠 Consumir APIs com o FetchAPI
 - 🧠 Criação e uso de contextos com `createContext` e `useContext`
 - 🎨 Aplicação de estilos com CSS Modules
 
